@@ -1,10 +1,10 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #ee402d;
-    --botao-azul: #167BF7;
+    --botao-azul: #fded10d0;
     --cor-de-fundo: #910603;
-    --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --fonte-principal: 'Inter'; 
+    --botao-azul-efeito: #faa83c;
 }
 
 body {
